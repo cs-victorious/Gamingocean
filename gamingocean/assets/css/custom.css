@@ -1,0 +1,104 @@
+body {
+ 
+  padding-top:70px;
+  background:#B0B3B8;
+  font-size:13px;
+  font-family: "Poppins", sans-serif;
+}
+.navbar{	
+	background-color: #000000;
+	background-image: linear-gradient(147deg, #000000 0%, #434343 40%);	
+}
+
+
+.cart-block{
+	background:#333;
+	color:#fff;
+	padding:10px;
+	margin-bottom:20px;
+}
+
+.panel-list a{
+	display:block;
+	color:#666;
+}
+
+.panel-list .panel-heading h3{
+	padding:4px;
+	font-size:18px;
+}
+
+.panel-heading-green{
+	background:#3b7e14 !important;
+	color:#fff !important;
+}
+
+.panel-heading-dark{
+	background:#333333 !important;
+	color:#fff !important;
+}
+
+.game{
+	display:relative;
+}
+
+.game-title{
+	text-align:center;
+	padding:5px;
+	background:#333;
+	color:#fff;
+}
+
+.game img{
+	width:100%;
+}
+
+.game-price{
+	position:absolute;
+	bottom:154px;
+	right:15px;
+	background:#3b7e14;
+	color:#fff;
+	padding:5px;
+	font-size:22px;
+}
+
+.game-add{
+	margin:5px auto 20px auto;
+	width:100%;
+	text-align:center;
+}
+
+.details-price{
+	font-size:25px;
+	margin-bottom:20px;
+}
+
+.details img{
+	width:100%;
+}
+
+.qty{
+	width:40px;
+	color:#666 !important;
+	text-align:center;
+	margin-bottom:20px;
+}
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-image: linear-gradient(147deg, #000000 0%, #434343 40%);	
+  color: white;
+  text-align: center;
+  padding: 25px 20px;
+	margin-top: 80px;
+}
+
+.fa{
+	padding:10px 10px;
+	font-size:30px;
+}
+
+ 
+
